@@ -22,7 +22,7 @@ public class GFG{
         // Step 3: Read integer input
         int number = sc.nextInt();
 
-        // Step 4: Print the entered integer
+        // Step four : Print the entered integer
         System.out.println("You entered: " + number);
 
         // Close the scanner
@@ -31,3 +31,5 @@ public class GFG{
 }
 
 code-1 is ended
+
+
